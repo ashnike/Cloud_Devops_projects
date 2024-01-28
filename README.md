@@ -1,6 +1,6 @@
-# Cloud DevOps Projects Showcase
+# DevOps Projects Showcase
 
-Welcome to my Cloud DevOps projects showcase! Below, you'll find a list of projects that I have been working on. Feel free to explore the repositories and contribute if you find them interesting.
+Welcome to my DevOps projects showcase! Below, you'll find a list of projects that I have been working on. Feel free to explore the repositories and contribute if you find them interesting.
 
 ## Projects:
 
@@ -15,3 +15,9 @@ Welcome to my Cloud DevOps projects showcase! Below, you'll find a list of proje
 
 4. [Vagrant_shell](https://github.com/ashnike/vagrant_shell)
    - Description: Shell provisioning for server.
+
+# CloudOps Projects Showcase
+Welcome to my CLoud projects showcase! Below, you'll find my blog articles regarding it.
+
+## Projects:
+1. Nginx Logs to AWS CloudWatch: A Complete How-To Guide :- https://pinakaops.in/index.php/2024/01/28/nginx-logs-to-aws-cloudwatch-a-complete-how-to-guide/
