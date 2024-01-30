@@ -17,4 +17,5 @@ Welcome to my DevOps projects showcase! Below, you'll find a list of projects th
    - Description: Shell provisioning for server.
 
 5. [GitLab-CICD](https://gitlab.com/ashnike/demo_cicd_docker).
-Description: Implements continuous integration and continuous deployment (CI/CD) pipelines using GitLab CI/CD. This project automates the build, test, and deployment processes for software development projects hosted on GitLab.
+   - Description: Implements continuous integration and continuous deployment (CI/CD) pipelines using GitLab CI/CD. This project automates the build, test, and deployment processes for
+     software development projects hosted on GitLab.
