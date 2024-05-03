@@ -1,4 +1,4 @@
-# DevOps Projects Showcase
+# My DevOps Projects Showcase
 
 Welcome to my DevOps projects showcase! Below, you'll find a list of projects that I have been working on. Feel free to explore the repositories and contribute if you find them interesting.
 
@@ -13,12 +13,15 @@ Welcome to my DevOps projects showcase! Below, you'll find a list of projects th
        
 3. [springboot App Build & Deploy](https://github.com/ashnike/spring_compose.git)
    - Description: Build and Deploy the springboot application using multistage docker files using docker-compose.
+     - Tech-stack: Dockerswarm
 
 4. [TechD](https://github.com/ashnike/TechD)
    - Description: Using docker-compose launching multiple containers: frontend, backend, and a load balancer nginx to distribute traffic.
+     - Tech-stack:
   
 5. [bipoflask](https://github.com/ashnike/bipoflask)
    - Description: A ci/cd implementation for the Python flask API app.
+     - Tech-stack: AWS Ci/Cd
 
 6. [Vagrant-3t](https://github.com/ashnike/Vagrant-3t)
    - Description: A 3-tier architecture setup with ansible provisioning.
